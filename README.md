@@ -27,7 +27,6 @@ Controle de versões e colaboração em projetos.
 ## Projeto em Destaque
 
 ### [Sistema de Agendamento de Diagnósticos de Carros](https://github.com/RuanDEV0/car-diagnosis-scheduling-system)
-![Car Diagnosis](https://user-images.githubusercontent.com/your-image-link)
 Um projeto que permite agendar diagnósticos de forma simples e eficiente.
 
 ## Habilidades
