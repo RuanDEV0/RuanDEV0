@@ -1,12 +1,6 @@
 # Olá, eu sou [Ruan Oliveira de Almeida] 👋
 
-Desenvolvedor obstinado por criar soluções eficientes e escaláveis. Tenho experiência em diversas tecnologias, principalmente:
-
-- **Java**: Desenvolvimento de aplicações.
-- **Spring Boot**: Construção de APIs e microserviços ágeis.
-- **C**: Desenvolvimento básico de sistemas embarcados.
-- **PostgreSQL**: Banco de dados relacional com forte conhecimento em consultas .
-- **Git**: Controle de versões e colaboração em projetos.
+Desenvolvedor obstinado por criar soluções eficientes e escaláveis.
 
 ## Projeto em Destaque
 
@@ -22,4 +16,9 @@ Desenvolvedor obstinado por criar soluções eficientes e escaláveis. Tenho exp
 
 - [Email](mailto:ruanoliveiradev@gmail.com)
 
-À vontade para explorar meus projetos e entrar em contato!
+## Tecnologias
+
+![Java](https://upload.wikimedia.org/wikipedia/pt/3/30/Java_programming_language_logo.svg)
+![Spring Boot](https://en.wikipedia.org/wiki/Spring_Boot#/media/File:Spring_Boot.svg)
+![C](https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/The_C_Programming_Language_logo.svg/140px-The_C_Programming_Language_logo.svg.png)
+![PostgreSQL](https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Postgresql_elephant.svg/150px-Postgresql_elephant.svg.png)
