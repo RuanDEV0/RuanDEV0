@@ -6,6 +6,8 @@
 
 **[Car Diagnosis Scheduling System](https://github.com/RuanDEV0/car-diagnosis-scheduling-system)**
 
+**[Management Games System](https://github.com/RuanDEV0/games-list)
+
 ## 🛠️ Skills
 
 - **RESTful APIs** with Spring Boot
