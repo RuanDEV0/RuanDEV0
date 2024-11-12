@@ -6,7 +6,7 @@
 
 **[Car Diagnosis Scheduling System](https://github.com/RuanDEV0/car-diagnosis-scheduling-system)**
 
-**[Management Games System](https://github.com/RuanDEV0/games-list)
+**[Management Games System](https://github.com/RuanDEV0/games-list)**
 
 ## 🛠️ Skills
 
