@@ -20,7 +20,7 @@
 🌟 **Languages:** Java, C  
 ⚙️ **Frameworks:** Spring Boot  
 🗄️ **Databases:** PostgreSQL  
-🔧 **Tools:** Git
+🔧 **Tools:** Git and GitHub
 
 ## 📬 Let’s Connect!
 
