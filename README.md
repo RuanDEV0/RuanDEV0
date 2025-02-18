@@ -1,6 +1,6 @@
 # Hi, I'm Ruan Oliveira de Almeida 👋
 
-🔍 **Developer passionate about efficient and scalable solutions!**
+🔍 **I'm a Java back-end developer fascinated by the power of programming.**
 
 ## 🚀 Featured Project
 
