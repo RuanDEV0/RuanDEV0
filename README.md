@@ -1,27 +1,64 @@
-# Hi, I'm Ruan Oliveira de Almeida 👋
+<h1 align="center">Hi, I'm Ruan Oliveira de Almeida 👋</h1>
 
-🔍 **I'm a back-end developer fascinated by the power of programming.**
+<p align="center">🔍 I'm a back-end developer fascinated by the power of programming.</p>
 
-## 🚀 Featured Project
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=ruanoliveiradev&style=flat-square&color=blue" alt="Profile views"/>
+</p>
 
-**[Car Diagnosis Scheduling System](https://github.com/RuanDEV0/car-diagnosis-scheduling-system)**
+<p align="center">
+  <a href="https://github.com/RuanDEV0">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  </a>
+  <a href="https://www.linkedin.com/in/ruanoliveiradev">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="mailto:ruanoliveiradev@gmail.com">
+    <img src="https://img.shields.io/badge/E--mail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
+</p>
 
-**[Management Games System](https://github.com/RuanDEV0/games-list)**
+---
 
-## 🛠️ Skills
+## 🛠 Tecnologias e Ferramentas
 
-- **RESTful APIs** with Spring Boot and NodeJS
-- **PostgreSQL, MongoDB** for data manipulation
-- **C** for embedded systems
-- **Git** for version control and collaboration
+**Linguagens:**  
+Java, JavaScript, C
 
-## 💻 Tech Stack
+**Frameworks:**  
+Spring Boot, NodeJS
 
-🌟 **Languages:** Java, JavaScript e C  
-⚙️ **Frameworks:** Spring Boot e NodeJS  
-🗄️ **Databases:** PostgreSQL, MongoDB
-🔧 **Tools:** Git and GitHub
+**Banco de Dados:**  
+PostgreSQL, MongoDB
 
-## 📬 Let’s Connect!
+**Ferramentas:**  
+Git, GitHub, Docker
 
-[ruanoliveiradev@gmail.com](mailto:ruanoliveiradev@gmail.com)
+---
+
+## 🌟 Projetos em Destaque
+
+- 📌 **Car Diagnosis Scheduling System** – Sistema de agendamento de diagnósticos para veículos.  
+- 📌 **Management Games System** – Sistema de gerenciamento de jogos para fins educacionais.
+
+---
+
+## 📊 Estatísticas do GitHub
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ruanoliveiradev&show_icons=true&theme=radical" alt="GitHub Stats"/>
+</p>
+
+---
+
+## 🚀 Objetivos
+
+Estou comprometido em evoluir constantemente como desenvolvedor, buscando construir aplicações úteis e focadas na experiência do usuário.
+
+---
+
+<p align="center">
+  Obrigado por visitar meu perfil!  
+  <br/>
+  Sinta-se à vontade para me seguir ou entrar em contato!
+</p>
