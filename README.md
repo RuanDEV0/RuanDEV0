@@ -1,6 +1,6 @@
 <h1 align="center">Olá, sou Ruan Oliveira de Almeida 👋</h1>
 
-<p align="center">🔍 Sou um desenvolvedor fascinado pelo poder da programação.</p>
+<p align="center">🔍 Sou um dev tentando seguir o lema: “Com grandes poderes (de programação), vêm grandes responsabilidades (de debug)”.</p>
 
 ---
 
