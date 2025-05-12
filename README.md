@@ -1,22 +1,6 @@
-<h1 align="center">Hi, I'm Ruan Oliveira de Almeida 👋</h1>
+<h1 align="center">Olá, sou Ruan Oliveira de Almeida 👋</h1>
 
-<p align="center">🔍 I'm a back-end developer fascinated by the power of programming.</p>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=ruanoliveiradev&style=flat-square&color=blue" alt="Profile views"/>
-</p>
-
-<p align="center">
-  <a href="https://github.com/RuanDEV0">
-    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-  </a>
-  <a href="https://www.linkedin.com/in/ruanoliveiradev">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-  <a href="mailto:ruanoliveiradev@gmail.com">
-    <img src="https://img.shields.io/badge/E--mail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
-  </a>
-</p>
+<p align="center">🔍 Sou um desenvolvedor fascinado pelo poder da programação.</p>
 
 ---
 
@@ -43,13 +27,17 @@ Git, GitHub, Docker
 
 ---
 
-## 📊 Estatísticas do GitHub
+## 🌐 Links Externos
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ruanoliveiradev&show_icons=true&theme=radical" alt="GitHub Stats"/>
+<p>
+  <a href="https://www.linkedin.com/in/ruanoliveiradev">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="mailto:ruanoliveiradev@gmail.com">
+    <imgsrc="https://img.shields.io/badge/E--mail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
 </p>
 
----
 
 ## 🚀 Objetivos
 
