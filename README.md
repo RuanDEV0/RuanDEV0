@@ -22,8 +22,8 @@ Git, GitHub, Docker
 
 ## 🌟 Projetos em Destaque
 
-- 📌 **Car Diagnosis Scheduling System** – Sistema de agendamento de diagnósticos para veículos.  
-- 📌 **Management Games System** – Sistema de gerenciamento de jogos para fins educacionais.
+- 📌 **Car Diagnosis Scheduling System** – API de agendamento de diagnósticos para veículos.  
+- 📌 **Management Games System** – API de gerenciamento de jogos para fins educacionais.
 
 ---
 
