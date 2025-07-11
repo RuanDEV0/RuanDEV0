@@ -10,7 +10,7 @@
 Java, JavaScript, C
 
 **Frameworks:**  
-Spring Boot, NodeJS
+Spring Boot, Node.js
 
 **Banco de Dados:**  
 PostgreSQL, MongoDB
@@ -22,8 +22,10 @@ Git, GitHub, Docker
 
 ## 🌟 Projetos em Destaque
 
-- 📌 **Car Diagnosis Scheduling System** – API de agendamento de diagnósticos para veículos.  
-- 📌 **Management Games System** – API de gerenciamento de jogos para fins educacionais.
+- 📌 **[EcoWebMobile](https://github.com/Project-EcoWeb/mobile)** – Aplicativo em React Native para conectar empresas que geram resíduos recicláveis a pessoas com ideias de reutilização criativa, desenvolvido durante componente curricular de desenvolvimento mobile.
+- 📌 **[EcoWeb API](https://github.com/Project-EcoWeb/api)** – Backend em Node.js e MongoDB que fornece os dados e funcionalidades para o app EcoWeb.
+- 📌 **[Car Diagnosis Scheduling System](https://github.com/RuanDEV0/car-diagnosis-scheduling-system)** – API de agendamento de reparos para veículos.  
+- 📌 **[Management Games System](https://github.com/RuanDEV0/games-list)** – API de gerenciamento de jogos para fins educacionais.
 
 ---
 
@@ -34,10 +36,11 @@ Git, GitHub, Docker
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
   <a href="mailto:ruanoliveiradev@gmail.com">
-    <imgsrc="https://img.shields.io/badge/E--mail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+    <img src="https://img.shields.io/badge/E--mail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
 </p>
 
+---
 
 ## 🚀 Objetivos
 
