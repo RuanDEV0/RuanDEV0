@@ -26,6 +26,7 @@ Git, GitHub, Docker
 - 📌 **[EcoWeb API](https://github.com/Project-EcoWeb/api)** – Backend em Node.js e MongoDB que fornece os dados e funcionalidades para o app EcoWeb.
 - 📌 **[Car Diagnosis Scheduling System](https://github.com/RuanDEV0/car-diagnosis-scheduling-system)** – API de agendamento de reparos para veículos.  
 - 📌 **[Management Games System](https://github.com/RuanDEV0/games-list)** – API de gerenciamento de jogos para fins educacionais.
+- 📌 **[Cofrinho](https://github.com/Cofrinho/backend)** – API RESTful desenvolvida como projeto final de estágio na Compass UOL. Gerencia despesas compartilhadas entre grupos com integração ao Open Finance para operações bancárias (saldos, recargas). .
 
 ---
 
