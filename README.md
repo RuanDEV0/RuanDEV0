@@ -15,6 +15,9 @@ Aplicativo em **React Native** que conecta empresas geradoras de resíduos recic
 **[EcoWeb API](https://github.com/Project-EcoWeb/api)**  
 Backend em **Node.js + MongoDB** que fornece dados e funcionalidades para o app EcoWeb.
 
+**[EcoWeb Website](https://github.com/Project-EcoWeb/web) - [Endereço](https://ecoweb-cop30.vercel.app/)**  
+Website em **React + Next.js** que fornece dados e funcionalidades para o usuário(Pessoa Jurídica).
+
 **[Cofrinho](https://github.com/Cofrinho/backend)**  
 API RESTful **Node.js + PostgreSQL**, desenvolvida como projeto final de estágio na Compass UOL, gerenciar despesas compartilhadas e integrações bancárias via Open Finance.
 
