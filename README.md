@@ -29,7 +29,7 @@ API de gerenciamento de jogos para fins educacionais, **Spring + PostgreSQL**.
 
 ---
 
-## Tecnologias que utilizo
+## Tecnologias utilizadas
 
 <p align="center">
 
