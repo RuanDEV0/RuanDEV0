@@ -27,6 +27,9 @@ API de agendamento de reparos para veículos, **Spring + PostgreSQL**.
 **[Management Games System](https://github.com/RuanDEV0/games-list)**  
 API de gerenciamento de jogos para fins educacionais, **Spring + PostgreSQL**.
 
+**[InspectGovBr](https://github.com/RuanDEV0/InspectGovRR)**  
+Aplicação Web para auditoria de repasses de recursos públicos, **Django + PostgreSQL**.
+
 ---
 
 ## Tecnologias utilizadas
